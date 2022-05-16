@@ -8,3 +8,5 @@ The aim of the project is to implement the Wiper Control System of the car. Wipe
 [![Contribution Check - Git Inspector](https://github.com/MILINDMG301/m3_Wiper_System/actions/workflows/git_main.yml/badge.svg)](https://github.com/MILINDMG301/m3_Wiper_System/actions/workflows/git_main.yml)
 
 [![C/C++ CI](https://github.com/MILINDMG301/m3_Wiper_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MILINDMG301/m3_Wiper_System/actions/workflows/c-cpp.yml)
+
+[![Build-Linux](https://github.com/MILINDMG301/m3_Wiper_System/actions/workflows/main.yml/badge.svg)](https://github.com/MILINDMG301/m3_Wiper_System/actions/workflows/main.yml)
